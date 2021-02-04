@@ -11,7 +11,7 @@ public class Main {
 		q1.insert(32);
 		q1.insert(66);
 		
-		
+		//what????
 		printQueue(q1);
 		System.out.println(returnSize(q1));
 	}
