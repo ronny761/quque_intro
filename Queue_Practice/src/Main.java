@@ -15,7 +15,10 @@ public class Main {
 		printQueue(q1);
 		System.out.println(returnSize(q1));
 	}
-	
+	//q2
+	public void q2() {
+		System.out.println(" i finished!");
+	}
 	/*
 	 * return the size of queue
 	 */
